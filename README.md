@@ -1,7 +1,7 @@
 <div align="center">
-  <a href="https://github.com/Nizath-Mohammed">
-    <img src="http://googleusercontent.com/image_generation_content/0" alt="Nizath Mohammed - Developer Banner" width="100%">
-  </a>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=2962FF&width=435&lines=Nizath+Mohammed;DSA+%26+Competitive+Programming;Data+Science+Enthusiast;Full+Stack+Developer;DevOps+Practitioner" alt="Typing Animation Banner" />
+
 </div>
 
 <h1 align="center">👋 Hi, I'm Nizath Mohammed!</h1>
@@ -9,18 +9,18 @@
 ---
 
 <p align="center">
-  I'm a passionate developer focused on [Your Primary Domain, e.g., Full-Stack Development, Data Science]. 
-  I love building solutions that simplify processes and deliver great user experiences. 
-  Currently diving deeper into [New Technology/Topic].
+  A versatile developer specializing in **Data Structures & Algorithms (DSA)** and **Competitive Programming**. 
+  I bridge the gap between robust backends and seamless user experiences, leveraging **Data Science** for intelligent features and applying **DevOps** principles for reliable delivery.
+  Let's build scalable solutions! 🚀
 </p>
 
 ---
 
-## 💻 Tech Stack & Tools
+## 💻 Tech Stack & Key Domains
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,python,js,html,css,git,github,docker,vscode&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=java,python,javascript,react,spring,docker,aws,gcp,kubernetes,bash,git,github,vscode&theme=dark&perline=6" />
   </a>
 </div>
 
@@ -29,6 +29,8 @@
 ## 📈 GitHub Stats & Activity
 
 <div align="center">
+  
+  [![GitHub Metrics](https://metrics.lecoq.io/Nizath-Mohammed?template=terminal&base=header%2C+activity&config.timezone=Asia%2FKolkata&lines=2)]()
   
   [![Nizath-Mohammed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nizath-Mohammed&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=title)](https://github.com/Nizath-Mohammed)
   
@@ -42,17 +44,17 @@
 
 ---
 
-## 🌐 Find Me Around the Web
+## 🌐 Connect with Me
 
 <p align="center">
   <a href="[Your-LinkedIn-URL]">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="[Your-Twitter-URL]">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
-  </a>
   <a href="[Your-Portfolio-URL]">
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=react&logoColor=white" />
+  </a>
+  <a href="[Your-Email-Address]">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
