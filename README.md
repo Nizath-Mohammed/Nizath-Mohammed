@@ -1,4 +1,4 @@
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/01e5a72e-8462-4ead-9658-e17f9dde0747" /><div align="center">
+<div align="center">
   <a href="https://github.com/Nizath-Mohammed">
     <img src="[YOUR_PERMANENT_IMAGE_URL]" alt="Nizath Mohammed - Professional Developer Banner" width="100%">
   </a>
@@ -20,34 +20,37 @@ Let's build scalable, high-performance systems together.
 
 ## 💻 Technical Skills
 
-### Core Languages
+<div align="left">
+
+**Core Languages**  
 <img src="https://skillicons.dev/icons?i=java,python,javascript,typescript,go&theme=dark" />
 
-### Full Stack Development
+**Full Stack Development**  
 <img src="https://skillicons.dev/icons?i=react,nodejs,express,spring,mongodb,postgresql&theme=dark" />
 
-### Data Science & Algorithms
+**Data Science & Algorithms**  
 <img src="https://skillicons.dev/icons?i=python,jupyter,tensorflow,pytorch,numpy,pandas,r&theme=dark" />
 
-### DevOps & Cloud Infrastructure
+**DevOps & Cloud Infrastructure**  
 <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,gcp,jenkins,terraform&theme=dark" />
 
-### Tools & Version Control
+**Tools & Version Control**  
 <img src="https://skillicons.dev/icons?i=git,github,vscode,bash,linux,postman&theme=dark" />
 
+</div>
 
 ---
 
 ## 📊 Competitive Programming Profiles
 
 <a href="https://leetcode.com/u/nizath/">
-  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode Badge"/>
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
 </a>
 <a href="https://www.codechef.com/users/nizath">
-  <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef Badge"/>
+  <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
 </a>
 <a href="https://codolio.com/profile/Nizath_Mohammed_M">
-  <img src="https://img.shields.io/badge/Codolio-00bcd4?style=for-the-badge&logo=codesandbox&logoColor=white" alt="Codolio Badge"/>
+  <img src="https://img.shields.io/badge/Codolio-00bcd4?style=for-the-badge&logo=codesandbox&logoColor=white" />
 </a>
 
 ---
