@@ -12,9 +12,12 @@
 
 ---
 
-A versatile developer specializing in **Data Structures & Algorithms (DSA)** and **Competitive Programming**.  
-I bridge the gap between robust backends and seamless user experiences, leveraging **Data Science** for intelligent features and applying **DevOps** principles for reliable delivery.  
+<p align="center">
+A versatile developer specializing in <strong>Data Structures & Algorithms (DSA)</strong> and <strong>Competitive Programming</strong>.<br>
+I bridge the gap between robust backends and seamless user experiences, leveraging <strong>Data Science</strong> for intelligent features and applying <strong>DevOps</strong> principles for reliable delivery.<br>
 Let's build scalable, high-performance systems together.
+</p>
+
 
 ---
 
