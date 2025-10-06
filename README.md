@@ -16,7 +16,9 @@
   A versatile developer specializing in **Data Structures & Algorithms (DSA)** and **Competitive Programming**. 
   I bridge the gap between robust backends and seamless user experiences, leveraging **Data Science** for intelligent features and applying **DevOps** principles for reliable delivery.
   Let's build scalable solutions! 🚀
-</p>  
+</p>
+
+---
 
 ## 💻 Technical Showcase
 
@@ -56,7 +58,7 @@
   <a href="https://codolio.com/profile/Nizath_Mohammed_M">
     <img src="https://img.shields.io/badge/Codolio-00bcd4?style=for-the-badge&logo=codesandbox&logoColor=white" alt="Codolio Badge"/>
   </a>
-</p>    
+</p>
 
 ---
 
@@ -83,7 +85,9 @@
 
   [![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Nizath-Mohammed&theme=radical&no-bg=true&row=1)](https://github.com/ryo-ma/github-profile-trophy)
 
-</div>   ---
+</div>
+
+---
 
 ## 🌐 Connect with Me
 
