@@ -44,11 +44,8 @@ Let's build scalable, high-performance systems together.
 **Data Science & Algorithms**  
 <div style="display: flex; gap: 10px; flex-wrap: nowrap; align-items: center;">
   <img src="https://skillicons.dev/icons?i=python" width="40" height="40" />
-  <img src="https://skillicons.dev/icons?i=jupyter" width="40" height="40" />
   <img src="https://skillicons.dev/icons?i=tensorflow" width="40" height="40" />
   <img src="https://skillicons.dev/icons?i=pytorch" width="40" height="40" />
-  <img src="https://skillicons.dev/icons?i=numpy" width="40" height="40" />
-  <img src="https://skillicons.dev/icons?i=pandas" width="40" height="40" />
   <img src="https://skillicons.dev/icons?i=r" width="40" height="40" />
 </div>
 
