@@ -61,3 +61,6 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Nizath-Mohammed&label=Profile%20Views&color=0e75b6&style=flat" alt="GitHub Profile Views">
 </p>
+<div align="center">
+  <img src="https://github-contributor-graph.vercel.app/api?username=Nizath-Mohammed&theme=dark" alt="Nizath Mohammed's Contribution Graph" />
+</div>
