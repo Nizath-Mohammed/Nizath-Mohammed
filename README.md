@@ -1,35 +1,44 @@
-<a href="https://github.com/Nizath-Mohammed">
-  <img src="[YOUR_PERMANENT_IMAGE_URL]" alt="Nizath Mohammed - Professional Developer Banner" width="100%">
-</a>
+<div align="center">
+  <a href="https://github.com/Nizath-Mohammed">
+    <img src="[YOUR_PERMANENT_IMAGE_URL]" alt="Nizath Mohammed - Professional Developer Banner" width="100%">
+  </a>
+</div>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=42D9FF&lines=Nizath+Mohammed;DSA+%26+Competitive+Programming;Data+Science+Enthusiast;Full+Stack+Developer;DevOps+Practitioner&center=true" alt="Typing Animation Banner" />
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=42D9FF&center=true&vCenter=true&width=650&lines=Nizath+Mohammed;DSA+%26+Competitive+Programming;Data+Science+Enthusiast;Full+Stack+Developer;DevOps+Practitioner" alt="Typing Animation" />
+</div>
 
-# Hi, I'm Nizath Mohammed
-
-A versatile developer specializing in Data Structures & Algorithms (DSA) and Competitive Programming.  
-I bridge the gap between robust backends and seamless user experiences, leveraging Data Science for intelligent features and applying DevOps principles for reliable delivery.  
-Let's build scalable solutions together.
+<h1 align="center">Hi, I'm Nizath Mohammed</h1>
 
 ---
 
-## Technical Showcase
+A versatile developer specializing in **Data Structures & Algorithms (DSA)** and **Competitive Programming**.  
+I bridge the gap between robust backends and seamless user experiences, leveraging **Data Science** for intelligent features and applying **DevOps** principles for reliable delivery.  
+Let's build scalable, high-performance systems together.
+
+---
+
+## 💻 Technical Skills
 
 ### Core Languages
-<img src="https://skillicons.dev/icons?i=java,python,javascript,go,typescript&theme=dark" />
+<img src="https://skillicons.dev/icons?i=java,python,javascript,typescript,go&theme=dark" />
 
-### Full-Stack Development
-<img src="https://skillicons.dev/icons?i=react,spring,nodejs,express,mongodb,postgresql&theme=dark" />
+### Full Stack Development
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,spring,mongodb,postgresql&theme=dark" />
 
 ### Data Science & Algorithms
-<img src="https://skillicons.dev/icons?i=jupyter,tensorflow,pytorch,numpy,pandas,cpp,r&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,r,jupyter,tensorflow,pytorch,numpy,pandas&theme=dark" />
 
 ### DevOps & Cloud Infrastructure
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,gcp,terraform,jenkins&theme=dark" />
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,gcp,jenkins,terraform&theme=dark" />
 
-### Utilities & Version Control
-<img src="https://skillicons.dev/icons?i=git,github,vscode,bash,terminal&theme=dark" />
+### Tools & Version Control
+<img src="https://skillicons.dev/icons?i=git,github,vscode,bash,linux,postman&theme=dark" />
 
-### Competitive Coding & Learning Profiles
+---
+
+## 📊 Competitive Programming Profiles
+
 <a href="https://leetcode.com/u/nizath/">
   <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode Badge"/>
 </a>
@@ -42,34 +51,46 @@ Let's build scalable solutions together.
 
 ---
 
-## Progress and Activity
+## 📈 LeetCode Progress
 
-### LeetCode Progress
-<img src="https://leetcode-stats.demolab.com/?username=nizath&theme=tokyonight&no-border=true&hide=ranking" alt="LeetCode Stats" />
-
-### GitHub Contribution Graph
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Nizath-Mohammed&theme=react-dark&bg_color=0D1117&hide_border=true&area=true" alt="Nizath Mohammed's Activity Graph" />
-
-### GitHub Statistics
-<img src="https://github-readme-stats.vercel.app/api?username=Nizath-Mohammed&show_icons=true&theme=synthwave&hide_border=true&rank_icon=title" height="160em" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nizath-Mohammed&layout=compact&theme=synthwave&hide_border=true" height="160em" />
-
-### GitHub Streak and Trophies
-<img src="https://streak-stats.demolab.com/?user=Nizath-Mohammed&theme=synthwave&hide_border=true" alt="GitHub Streak" />
-<img src="https://github-profile-trophy.vercel.app/?username=Nizath-Mohammed&theme=radical&no-bg=true&row=1" alt="GitHub Trophies" />
+<a href="https://leetcode.com/u/nizath/">
+  <img src="https://leetcard.jacoblin.cool/nizath?ext=heatmap&theme=dark&font=Fira%20Code" alt="LeetCode Stats" />
+</a>
 
 ---
 
-## Connect with Me
+## 📊 GitHub Stats & Activity
 
-<a href="[Your-LinkedIn-URL]">
+<div align="center">
+
+[![Nizath-Mohammed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nizath-Mohammed&show_icons=true&theme=synthwave&hide_border=true&rank_icon=title)](https://github.com/Nizath-Mohammed)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nizath-Mohammed&layout=compact&theme=synthwave&hide_border=true)](https://github.com/Nizath-Mohammed)
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Nizath-Mohammed&theme=synthwave&hide_border=true)](https://git.io/streak-stats)
+
+[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Nizath-Mohammed&theme=radical&no-bg=true&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+
+<img src="https://github-contributor-graph.vercel.app/api?username=Nizath-Mohammed&theme=dark" alt="Contribution Graph" width="90%"/>
+
+</div>
+
+---
+
+## 🌐 Connect with Me
+
+<a href="[YOUR-LINKEDIN-URL]">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a href="[Your-Portfolio-URL]">
+<a href="[YOUR-PORTFOLIO-URL]">
   <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=react&logoColor=white" />
 </a>
-<a href="mailto:[Your-Email-Address]">
+<a href="mailto:[YOUR-EMAIL-ADDRESS]">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
-<img src="https://komarev.com/ghpvc/?username=Nizath-Mohammed&label=Profile%20Views&color=0e75b6&style=flat" alt="GitHub Profile Views">
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Nizath-Mohammed&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views">
+</p>
