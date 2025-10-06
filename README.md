@@ -27,7 +27,7 @@ Let's build scalable, high-performance systems together.
 <img src="https://skillicons.dev/icons?i=react,nodejs,express,spring,mongodb,postgresql&theme=dark" />
 
 ### Data Science & Algorithms
-<img src="https://skillicons.dev/icons?i=python,r,jupyter,tensorflow,pytorch,numpy,pandas&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,jupyter,tensorflow,pytorch,numpy,pandas,r&theme=dark" />
 
 ### DevOps & Cloud Infrastructure
 <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,gcp,jenkins,terraform&theme=dark" />
@@ -71,7 +71,10 @@ Let's build scalable, high-performance systems together.
 
 [![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Nizath-Mohammed&theme=radical&no-bg=true&row=1)](https://github.com/ryo-ma/github-profile-trophy)
 
-<img src="https://github-contributor-graph.vercel.app/api?username=Nizath-Mohammed&theme=dark" alt="Contribution Graph" width="90%"/>
+---
+
+### Contribution Graph
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Nizath-Mohammed&theme=react-dark&bg_color=000000&hide_border=true&line=42D9FF&point=00FFFF" alt="Contribution Graph" width="95%"/>
 
 </div>
 
