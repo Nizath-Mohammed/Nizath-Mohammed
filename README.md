@@ -1,4 +1,4 @@
-<div align="center">
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/01e5a72e-8462-4ead-9658-e17f9dde0747" /><div align="center">
   <a href="https://github.com/Nizath-Mohammed">
     <img src="[YOUR_PERMANENT_IMAGE_URL]" alt="Nizath Mohammed - Professional Developer Banner" width="100%">
   </a>
@@ -34,6 +34,7 @@ Let's build scalable, high-performance systems together.
 
 ### Tools & Version Control
 <img src="https://skillicons.dev/icons?i=git,github,vscode,bash,linux,postman&theme=dark" />
+
 
 ---
 
