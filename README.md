@@ -5,7 +5,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=FFFFFF&width=435&lines=Nizath+Mohammed;DSA+%26+Competitive+Programming;Data+Science+Enthusiast;Full+Stack+Developer;DevOps+Practitioner" alt="Typing Animation Banner" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=FFFFFF&lines=Nizath+Mohammed;DSA+%26+Competitive+Programming;Data+Science+Enthusiast;Full+Stack+Developer;DevOps+Practitioner&center=true" alt="Typing Animation Banner" />
 </div>
 
 <h1 align="center">👋 Hi, I'm Nizath Mohammed!</h1>
