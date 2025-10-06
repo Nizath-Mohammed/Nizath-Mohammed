@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://github.com/Nizath-Mohammed">
-    <img src="[YOUR_PERMANENT_IMAGE_URL]" alt="Nizath Mohammed - Professional Developer Banner" width="100%">
+    <img src="https://raw.githubusercontent.com/Nizath-Mohammed/Assets/main/banner.png" alt="Nizath Mohammed - Professional Developer Banner" width="100%">
   </a>
 </div>
 
@@ -23,19 +23,54 @@ Let's build scalable, high-performance systems together.
 <div align="left">
 
 **Core Languages**  
-<img src="https://skillicons.dev/icons?i=java,python,javascript,typescript,go&theme=dark" />
+<div style="display: flex; gap: 10px; flex-wrap: nowrap; align-items: center;">
+  <img src="https://skillicons.dev/icons?i=java" width="40" height="40" />
+  <img src="https://skillicons.dev/icons?i=python" width="40" height="40" />
+  <img src="https://skillicons.dev/icons?i=javascript" width="40" height="40" />
+  <img src="https://skillicons.dev/icons?i=typescript" width="40" height="40" />
+  <img src="https://skillicons.dev/icons?i=go" width="40" height="40" />
+</div>
 
 **Full Stack Development**  
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,spring,mongodb,postgresql&theme=dark" />
+<div style="display: flex; gap: 10px; flex-wrap: nowrap; align-items: center;">
+  <img src="https://skillicons.dev/icons?i=react" width="40" height="40" />
+  <img src="https://skillicons.dev/icons?i=nodejs" width="40" height="40" />
+  <img src="https://skillicons.dev/icons?i=express" width="40" height="40" />
+  <img src="https://skillicons.dev/icons?i=spring" width="40" height="40" />
+  <img src="https://skillicons.dev/icons?i=mongodb" width="40" height="40" />
+  <img src="https://skillicons.dev/icons?i=postgresql" width="40" height="40" />
+</div>
 
 **Data Science & Algorithms**  
-<img src="https://skillicons.dev/icons?i=python,jupyter,tensorflow,pytorch,numpy,pandas,r&theme=dark" />
+<div style="display: flex; gap: 10px; flex-wrap: nowrap; align-items: center;">
+  <img src="https://skillicons.dev/icons?i=python" width="40" height="40" />
+  <img src="https://skillicons.dev/icons?i=jupyter" width="40" height="40" />
+  <img src="https://skillicons.dev/icons?i=tensorflow" width="40" height="40" />
+  <img src="https://skillicons.dev/icons?i=pytorch" width="40" height="40" />
+  <img src="https://skillicons.dev/icons?i=numpy" width="40" height="40" />
+  <img src="https://skillicons.dev/icons?i=pandas" width="40" height="40" />
+  <img src="https://skillicons.dev/icons?i=r" width="40" height="40" />
+</div>
 
 **DevOps & Cloud Infrastructure**  
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,gcp,jenkins,terraform&theme=dark" />
+<div style="display: flex; gap: 10px; flex-wrap: nowrap; align-items: center;">
+  <img src="https://skillicons.dev/icons?i=docker" width="40" height="40" />
+  <img src="https://skillicons.dev/icons?i=kubernetes" width="40" height="40" />
+  <img src="https://skillicons.dev/icons?i=aws" width="40" height="40" />
+  <img src="https://skillicons.dev/icons?i=gcp" width="40" height="40" />
+  <img src="https://skillicons.dev/icons?i=jenkins" width="40" height="40" />
+  <img src="https://skillicons.dev/icons?i=terraform" width="40" height="40" />
+</div>
 
 **Tools & Version Control**  
-<img src="https://skillicons.dev/icons?i=git,github,vscode,bash,linux,postman&theme=dark" />
+<div style="display: flex; gap: 10px; flex-wrap: nowrap; align-items: center;">
+  <img src="https://skillicons.dev/icons?i=git" width="40" height="40" />
+  <img src="https://skillicons.dev/icons?i=github" width="40" height="40" />
+  <img src="https://skillicons.dev/icons?i=vscode" width="40" height="40" />
+  <img src="https://skillicons.dev/icons?i=bash" width="40" height="40" />
+  <img src="https://skillicons.dev/icons?i=linux" width="40" height="40" />
+  <img src="https://skillicons.dev/icons?i=postman" width="40" height="40" />
+</div>
 
 </div>
 
