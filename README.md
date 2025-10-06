@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://github.com/Nizath-Mohammed">
-    <img src="https://raw.githubusercontent.com/Nizath-Mohammed/Assets/main/banner.png" alt="Nizath Mohammed - Professional Developer Banner" width="100%">
+    <img src="https://github.com/user-attachments/assets/57e3070b-339a-4304-a5e0-b3445342944es" alt="Nizath Mohammed - Professional Developer Banner" width="100%">
   </a>
 </div>
 
