@@ -4,9 +4,9 @@
   </a>
 </div>
 
-<!-- <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=FFFFFF&lines=Nizath+Mohammed;DSA+%26+Competitive+Programming;Data+Science+Enthusiast;Full+Stack+Developer;DevOps+Practitioner&center=true" alt="Typing Animation Banner" />
-</div> -->
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=42D9FF&lines=Nizath+Mohammed;DSA+%26+Competitive+Programming;Data+Science+Enthusiast;Full+Stack+Developer;DevOps+Practitioner&center=true" alt="Typing Animation Banner" />
+</div>
 
 <h1 align="center">👋 Hi, I'm Nizath Mohammed!</h1>
 
@@ -32,7 +32,7 @@
 
 ### 3. Data Science & Algorithms
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=jupyter,tensorflow,pytorch,numpy,pandas,cpp&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=jupyter,tensorflow,pytorch,numpy,pandas,cpp,r&theme=dark" />
 </p>
 
 ### 4. DevOps & Cloud Infrastructure
@@ -45,7 +45,7 @@
   <img src="https://skillicons.dev/icons?i=git,github,vscode,bash,terminal&theme=dark" />
 </p>
 
-### 6. Competitive Coding & Learning (UPDATED)
+### 6. Competitive Coding & Learning (Your Profiles)
 <p align="center">
   <a href="https://leetcode.com/u/nizath/">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode Badge"/>
@@ -56,9 +56,9 @@
   <a href="https://codolio.com/profile/Nizath_Mohammed_M">
     <img src="https://img.shields.io/badge/Codolio-00bcd4?style=for-the-badge&logo=codesandbox&logoColor=white" alt="Codolio Badge"/>
   </a>
-</p>
+</p>    
 
-<br>
+---
 
 ## 📈 GitHub Stats & Activity
 
@@ -66,19 +66,24 @@
   
   <h3>Contributions (Annual View)</h3>
   <img src="https://github-contributor-graph.vercel.app/api?username=Nizath-Mohammed&theme=dark" alt="Nizath Mohammed's Contribution Graph" />
-  
-  [![GitHub Metrics](https://metrics.lecoq.io/Nizath-Mohammed?template=terminal&base=header%2C+activity&config.timezone=Asia%2FKolka\ta&lines=2)]()
-  
-  [![Nizath-Mohammed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nizath-Mohammed&show_icons=true&theme=low-contrast&hide_border=true&rank_icon=title)](https://github.com/Nizath-Mohammed)
-  
-  [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nizath-Mohammed&layout=compact&theme=low-contrast&hide_border=true)](https://github.com/Nizath-Mohammed)
-  
-  [![GitHub Streak](https://streak-stats.demolab.com/?user=Nizath-Mohammed&theme=dark&hide_border=true)](https://git.io/streak-stats)
+</div>
 
-  [![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Nizath-Mohammed&theme=dark_dimmed&no-bg=true&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+<div align="center">
+  <h3>LeetCode Progress</h3>
+  <img src="https://leetcode-stats.demolab.com/?username=nizath&theme=synthwave&no-border=true" alt="Nizath Mohammed LeetCode Stats" />
+</div>
 
-</div>  
----
+<div align="center">
+  
+  [![Nizath-Mohammed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nizath-Mohammed&show_icons=true&theme=synthwave&hide_border=true&rank_icon=title)](https://github.com/Nizath-Mohammed)
+  
+  [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nizath-Mohammed&layout=compact&theme=synthwave&hide_border=true)](https://github.com/Nizath-Mohammed)
+  
+  [![GitHub Streak](https://streak-stats.demolab.com/?user=Nizath-Mohammed&theme=synthwave&hide_border=true)](https://git.io/streak-stats)
+
+  [![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Nizath-Mohammed&theme=radical&no-bg=true&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>   ---
 
 ## 🌐 Connect with Me
 
