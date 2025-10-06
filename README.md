@@ -1,10 +1,12 @@
 <div align="center">
   <a href="https://github.com/Nizath-Mohammed">
-    <img src="https://i.imgur.com/G5R5L3k.png" alt="Profile Header Placeholder" width="100%">
+    <img src="http://googleusercontent.com/image_generation_content/0" alt="Nizath Mohammed - Developer Banner" width="100%">
   </a>
 </div>
 
 <h1 align="center">👋 Hi, I'm Nizath Mohammed!</h1>
+
+---
 
 <p align="center">
   I'm a passionate developer focused on [Your Primary Domain, e.g., Full-Stack Development, Data Science]. 
