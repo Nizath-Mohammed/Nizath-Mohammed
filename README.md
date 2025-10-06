@@ -4,9 +4,9 @@
   </a>
 </div>
 
-<!-- <div align="center">
+<div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=FFFFFF&lines=Nizath+Mohammed;DSA+%26+Competitive+Programming;Data+Science+Enthusiast;Full+Stack+Developer;DevOps+Practitioner&center=true" alt="Typing Animation Banner" />
-</div> -->
+</div>
 
 <h1 align="center">👋 Hi, I'm Nizath Mohammed!</h1>
 
@@ -16,14 +16,47 @@
   A versatile developer specializing in **Data Structures & Algorithms (DSA)** and **Competitive Programming**. 
   I bridge the gap between robust backends and seamless user experiences, leveraging **Data Science** for intelligent features and applying **DevOps** principles for reliable delivery.
   Let's build scalable solutions! 🚀
-</p> 
-## 💻 Tech Stack & Key Domains
+</p>  
 
-<div align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,python,javascript,react,spring,docker,aws,gcp,kubernetes,bash,git,github,vscode&theme=dark&perline=6" />
+## 💻 Technical Showcase
+
+### 1. Core Languages
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,python,javascript,go,typescript&theme=dark" />
+</p>
+
+### 2. Full-Stack Development
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,spring,nodejs,express,mongodb,postgresql&theme=dark" />
+</p>
+
+### 3. Data Science & Algorithms
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=jupyter,tensorflow,pytorch,numpy,pandas,cpp&theme=dark" />
+</p>
+
+### 4. DevOps & Cloud Infrastructure
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,gcp,terraform,jenkins&theme=dark" />
+</p>
+
+### 5. Utilities & Version Control
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,bash,terminal&theme=dark" />
+</p>
+
+### 6. Competitive Coding & Learning (UPDATED)
+<p align="center">
+  <a href="https://leetcode.com/u/nizath/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode Badge"/>
   </a>
-</div>
+  <a href="https://www.codechef.com/users/nizath">
+    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef Badge"/>
+  </a>
+  <a href="https://codolio.com/profile/Nizath_Mohammed_M">
+    <img src="https://img.shields.io/badge/Codolio-00bcd4?style=for-the-badge&logo=codesandbox&logoColor=white" alt="Codolio Badge"/>
+  </a>
+</p>
 
 <br>
 
@@ -31,7 +64,10 @@
 
 <div align="center">
   
-  [![GitHub Metrics](https://metrics.lecoq.io/Nizath-Mohammed?template=terminal&base=header%2C+activity&config.timezone=Asia%2FKolkata&lines=2)]()
+  <h3>Contributions (Annual View)</h3>
+  <img src="https://github-contributor-graph.vercel.app/api?username=Nizath-Mohammed&theme=dark" alt="Nizath Mohammed's Contribution Graph" />
+  
+  [![GitHub Metrics](https://metrics.lecoq.io/Nizath-Mohammed?template=terminal&base=header%2C+activity&config.timezone=Asia%2FKolka\ta&lines=2)]()
   
   [![Nizath-Mohammed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nizath-Mohammed&show_icons=true&theme=low-contrast&hide_border=true&rank_icon=title)](https://github.com/Nizath-Mohammed)
   
@@ -41,7 +77,7 @@
 
   [![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Nizath-Mohammed&theme=dark_dimmed&no-bg=true&row=1)](https://github.com/ryo-ma/github-profile-trophy)
 
-</div> 
+</div>  
 ---
 
 ## 🌐 Connect with Me
@@ -61,6 +97,3 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Nizath-Mohammed&label=Profile%20Views&color=0e75b6&style=flat" alt="GitHub Profile Views">
 </p>
-<div align="center">
-  <img src="https://github-contributor-graph.vercel.app/api?username=Nizath-Mohammed&theme=dark" alt="Nizath Mohammed's Contribution Graph" />
-</div>
