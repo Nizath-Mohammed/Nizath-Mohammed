@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hi there 👋 I'm Nizath Mohammed!
 
-<!--
-**Nizath-Mohammed/Nizath-Mohammed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate developer focused on [Add your main tech focus here, e.g., 'building scalable web applications' or 'exploring data science'].
 
-Here are some ideas to get you started:
+Connect with me and see what I'm currently working on!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 My GitHub Statistics
+
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=Nizath-Mohammed&show_icons=true&theme=onedark&hide_border=true&rank_icon=true&line_height=25"
+    alt="Nizath-Mohammed's GitHub Stats" 
+  />
+
+  &nbsp;&nbsp;&nbsp;&nbsp; <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nizath-Mohammed&layout=compact&theme=onedark&hide_border=true&line_height=25"
+    alt="Top Languages" 
+  />
+</p>
+
+---
+
+## 🔥 My Contribution Streak
+
+Showcasing my commitment to continuous learning and development.
+
+<p align="center">
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=Nizath-Mohammed&theme=onedark&hide_border=true"
+    alt="Nizath-Mohammed's GitHub Streak" 
+  />
+</p>
+
+---
