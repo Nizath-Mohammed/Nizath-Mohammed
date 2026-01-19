@@ -40,13 +40,12 @@ Prerequisites:
 `ash
 git clone https://github.com/Nizath-Mohammed/Nizath-Mohammed.git
 cd Nizath-Mohammed
-# add setup steps here
 `
 
+
+
 ## Usage
-`ash
-# add usage commands here
-`
+
 
 ## Scripts
 - Document useful scripts or commands.
